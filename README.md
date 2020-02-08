@@ -1,7 +1,5 @@
 # Hadith-Data-Sets
-All Hadith from nine books 62,169 Hadith 
-
-## With Tashkil and Without Tashkel
+All Hadith With Tashkil and Without Tashkel from the Nine Books that are 62,169 Hadith.
 
 All Books :              62,169
 Sahih Bukhari:           7008
