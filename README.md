@@ -1,5 +1,6 @@
 # Hadith-Data-Sets
-All Hadith With Tashkil and Without Tashkel from the Nine Books that are 62,169 Hadith.
+## [All Hadith Books]: All Hadith With Tashkil and Without Tashkel from the Nine Books that are 62,169 Hadith.
+## [All Hadith Books_preprocessing]: All Hadith Without Tashkil which is applyed normalization and removeing stop words and lemmatization on it 
 
 All Books :              62,169
 Sahih Bukhari:           7008
